@@ -1,0 +1,7 @@
+D:\VSProject\AllTestProject\AllTestProject\bin\Debug\AllTestProject.exe.config
+D:\VSProject\AllTestProject\AllTestProject\bin\Debug\AllTestProject.exe
+D:\VSProject\AllTestProject\AllTestProject\bin\Debug\AllTestProject.pdb
+D:\VSProject\AllTestProject\AllTestProject\obj\Debug\AllTestProject.csprojAssemblyReference.cache
+D:\VSProject\AllTestProject\AllTestProject\obj\Debug\AllTestProject.csproj.CoreCompileInputs.cache
+D:\VSProject\AllTestProject\AllTestProject\obj\Debug\AllTestProject.exe
+D:\VSProject\AllTestProject\AllTestProject\obj\Debug\AllTestProject.pdb
